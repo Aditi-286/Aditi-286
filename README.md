@@ -1,3 +1,4 @@
+![logo](https://github.com/Aditi-286/Aditi-286/blob/main/vid.mp4)
 <h1 align="center">Hi 👋, I'm Aditi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right"alt="coding"width="400"src="https://user-images.githubusercontent.com/74038190/250967618-de30015f-dc5f-4ecf-a49b-ccd2b89776e4.gif">
